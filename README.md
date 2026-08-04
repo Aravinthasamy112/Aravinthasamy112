@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aravinthasamyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravinthasamyas)
 [![GitHub](https://img.shields.io/badge/GitHub-Aravinthasamy112-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinthasamy112)
 
-![](https://komarev.com/ghpvc/?username=Aravinthasamy112&style=for-the-badge)
 
 </div>
 
