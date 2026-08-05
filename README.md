@@ -2,7 +2,7 @@
 
 # Hi, I'm Aravinthasamy A 👋
 
-### AI & Data Science Student | Data Analytics | Python | Business Intelligence
+### AI & Data Science Student | Data Analytics | Python Development
 
 **Building practical, data-driven solutions through analytics, AI, and software development.**
 
