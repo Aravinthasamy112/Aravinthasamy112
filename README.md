@@ -1,193 +1,27 @@
 <div align="center">
 
-# Hi, I'm Aravinthasamy A 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:001F3F,50:00F5FF,75:001F3F,100:0B0F19&height=280&section=header&text=ARAVINTHASAMY%20A&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 
-### AI & Data Science Student | Data Analytics | Python Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=B.Tech+Artificial+Intelligence+%26+Data+Science;Data+Science+%7C+AI+%26+ML;Python+Full+Stack+Development"/>
 
-**Building practical, data-driven solutions through analytics, AI, and software development.**
-
-[![Email](https://img.shields.io/badge/Email-aravinthasamy2006as%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinthasamy2006as@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aravinthasamyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aravinthasamyas)
-[![GitHub](https://img.shields.io/badge/GitHub-Aravinthasamy112-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinthasamy112)
-
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a **B.Tech Artificial Intelligence & Data Science** student passionate about **Data Analytics, Artificial Intelligence, and Python Development**. Through internships in **Data Science, AI/ML, and Python Full Stack Development**, I have gained practical experience in solving real-world problems using data and technology.
-
-- 🎓 **B.Tech AI & DS** – Indra Ganesan College of Engineering (2023–2027)
-- 📊 Interested in Data Analytics, Business Intelligence & Data Visualization
-- 🌱 Currently learning Machine Learning, Generative AI & RAG
-- 🚀 Goal: Build data-driven solutions that solve real-world problems.
-
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-</p>
-
----
-
-# 🎓 Education
-
-| Degree | Institution | Year |
-|---------|-------------|------|
-| B.Tech Artificial Intelligence & Data Science | Indra Ganesan College of Engineering | 2023–2027 |
-| Higher Secondary | Government Higher Secondary School, Puthanatham | 2023 |
-
-**Current CGPA:** **7.62 / 10**
-
----
-
-# 💼 Internship Experience
-
-### AIML Intern — Akilam Technologies *(June 2026)*
-
-- Worked on Artificial Intelligence & Machine Learning concepts.
-- Assisted in ML workflow implementation.
-
-**Key Skills:** Machine Learning, AI Concepts
-
----
-
-### Python Full Stack Development Intern — e-soft IT Solutions *(December 2025)*
-
-- Developed web applications using Python.
-- Worked on frontend and backend fundamentals.
-
-**Key Skills:** Python, Web Development
-
----
-
-### Data Science Intern — Judah Code Technologies *(June 2025 – July 2025)*
-
-- Performed data preprocessing and analysis.
-- Built visualizations using Python.
-
-**Key Skills:** Data Analysis, Data Visualization, Python
-
----
-
-# 🚀 Featured Project
-
-## 📊 Sales Data Analysis
-
-**Technologies**
-
-- Microsoft Excel
-- MySQL
-- Power BI
-
-**Highlights**
-
-- Analyzed sales datasets
-- Built interactive dashboards
-- Identified sales trends
-- Generated business insights
-
-**Project Outcome**
-
-Built an interactive Power BI dashboard to visualize sales performance and revenue trends for better business decision-making.
-
----
-
-# 📜 Certifications
-
-- Machine Learning
-- Data Science
-- Microsoft Advanced Excel
-- Generative AI & RAG
-- Power BI Dashboard Creation
-- Full Stack Development in Python
-
----
-
-# 🏆 Co-Curricular Activities
-
-- PROJECT PRISM – Kalasalingam Academy of Research and Education
-- SHARK TANK '26 – Kalasalingam Academy of Research and Education
-- National Level Sports Fest (Chess) – SASTRA University
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aravinthasamy112&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinthasamy112&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aravinthasamy112&theme=github-dark&hide_border=true" width="98%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravinthasamy112&theme=github-dark&hide_border=true" width="98%" />
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
+<br>
 
 <a href="mailto:aravinthasamy2006as@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/aravinthasamyas">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aravinthasamy112">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<div align="center">
+# 👋 About Me
 
-### "Continuous learning, consistent improvement, and practical problem solving."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+B.Tech. Artificial Intelligence & Data Science student with hands-on internship experience in Data Science, Artificial Intelligence & Machine Learning, and Python Full Stack Development. Passionate about learning new technologies and applying technical knowledge to solve real-world problems. Seeking an opportunity to build my career while contributing effectively to organizational growth.
