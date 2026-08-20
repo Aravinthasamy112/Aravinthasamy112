@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aravinthasamy A 👋</h1>
-<h3 align="center">📊 Data Analyst Aspirant | Python · SQL · Power BI · Excel · Data Visualization</h3>
+<h3 align="center">📊 Data Analyst | Python · SQL · Power BI · Excel · Data Visualization</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Actionable+Insights;Python+%26+SQL+for+Data+Analysis;Power+BI+%26+Excel+Dashboards;Data+Cleaning+%26+Visualization;Building+Data-Driven+Projects" />
@@ -81,47 +81,6 @@ A Python desktop application for scanning, organizing and managing PDF files.
 
 ---
 
-### 💼 Internship Experience
-
-**📊 Data Science Intern — Judah Code Technologies**
-*June 2025 – July 2025*
-
-* Performed data preprocessing, analysis and visualization using Python
-* Extracted data-driven insights from datasets
-* Gained practical exposure to end-to-end Data Science workflows
-
-**🤖 AIML Intern — Akilam Technologies**
-*June 2026*
-
-* Worked with Artificial Intelligence and Machine Learning concepts
-* Assisted in implementing and evaluating ML workflows and models
-
-**🌐 Python Full Stack Development Intern — e-soft IT Solutions**
-*December 2025*
-
-* Contributed to Python-based web applications
-* Gained hands-on frontend and backend development experience
-
----
-
-### 📜 Certifications
-
-* Data Analytics
-* Data Science
-* Data Science & Analytics
-* Machine Learning
-* Microsoft Advanced Excel
-* Excel Dashboard Creation
-* Power BI Dashboard Creation
-* Generative AI & RAG
-* Full Stack Development in Python
-* MongoDB Basics
-* Cyber Security Awareness and Security Measures
-* IoT Network Specialist
-* AI Through the Lens of Tamil
-
----
-
 ### 🎯 What I'm Currently Focused On
 
 ```text
@@ -153,20 +112,3 @@ A Python desktop application for scanning, organizing and managing PDF files.
 </p>
 
 ---
-
-### 🏆 Co-Curricular Activities
-
-* **PROJECT PRISM** — Kalasalingam Academy of Research and Education
-* **SHARK TANK '26** — Kalasalingam Academy of Research and Education
-* **National Level Sports Fest — Chess** — SASTRA University
-
----
-
-<h3 align="center">📫 Let's Connect — Open to Data Analytics & Data Science Opportunities!</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aravinthasamyas">LinkedIn</a> •
-<a href="https://github.com/Aravinthasamy112">GitHub</a> •
-<a href="https://aravinthasamy112.github.io/portfolio/">Portfolio</a>
-</p>
-
