@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aravinthasamy A </h1>
+<h1 align="center">Aravinthasamy A </h1>
 
 <h3 align="center">
 Data Analyst | · Python · SQL · Power BI · Excel · Data Visualization
