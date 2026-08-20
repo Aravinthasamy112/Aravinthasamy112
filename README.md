@@ -40,6 +40,7 @@ Data Analyst | · Python · SQL · Power BI · Excel · Data Visualization
     />
   </a>
 </p>
+
 ---
 
 ## Profile
