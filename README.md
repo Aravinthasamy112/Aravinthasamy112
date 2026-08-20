@@ -74,6 +74,7 @@ strong analytical and technical skills for an entry-level Data Analyst career.
 **Web Technologies:** HTML · CSS
 
 **Core Skills:** Data Analysis · Data Cleaning · Data Preprocessing · Data Visualization · Business Intelligence · Data-Driven Insights
+
 ---
 
 ## Projects
