@@ -1,25 +1,45 @@
-<h1 align="center">Aravinthasamy A</h1>
+<h1 align="center">Hi there, I'm Aravinthasamy A 👋</h1>
+
+<h3 align="center">
+Data Analyst | · Python · SQL · Power BI · Excel · Data Visualization
+</h3>
 
 <p align="center">
-  <strong>Data Analyst | Python | SQL | Power BI | Excel</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Actionable+Insights;Python+%26+SQL+for+Data+Analysis;Power+BI+%26+Excel+Dashboards;Data+Cleaning+%26+Visualization;Building+Data-Driven+Projects"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  B.Tech. Artificial Intelligence & Data Science
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aravinthasamyas">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/aravinthasamyas" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:aravinthasamy2006as@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
+  <a href="https://github.com/Aravinthasamy112">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
   <a href="https://aravinthasamy112.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
-
 ---
 
 ## Profile
@@ -35,19 +55,24 @@ strong analytical and technical skills for an entry-level Data Analyst career.
 
 ---
 
-## Technical Skills
+### Tech Stack
 
-**Programming:** Python, SQL
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode&perline=7"
+    alt="Tech Stack"
+  />
+</p>
 
-**Data Analysis & BI:** Microsoft Excel, Power BI
+**Languages:** Python · SQL
 
-**Database:** MySQL, SQL Server Management Studio
+**Data Analysis & BI:** Microsoft Excel · Power BI · SQL Server Management Studio
 
-**Web Technologies:** HTML, CSS
+**Database:** MySQL
 
-**Core Skills:** Data Analysis, Data Cleaning, Data Preprocessing,
-Data Visualization, Business Intelligence, Data-Driven Insights
+**Web Technologies:** HTML · CSS
 
+**Core Skills:** Data Analysis · Data Cleaning · Data Preprocessing · Data Visualization · Business Intelligence · Data-Driven Insights
 ---
 
 ## Projects
@@ -102,16 +127,6 @@ A desktop application for scanning, organizing and managing PDF files.
 
 - Contributed to Python-based web application development.
 - Gained hands-on experience across frontend and backend development.
-
----
-
-## Education
-
-**B.Tech. — Artificial Intelligence & Data Science**
-
-Indra Ganesan College of Engineering  
-2023 – 2027  
-**Current CGPA: 7.62 / 10**
 
 ---
 
